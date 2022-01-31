@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "mohamed",
+      "lastName": "talaat",
+      "email": "mo@un.com",
+      "mobile": "9654789",
+      "salary": "6987"
+    },
+    {
+      "id": 6,
+      "firstName": "Salm",
+      "lastName": "Zahy",
+      "email": "sal@in.com",
+      "mobile": "8444811",
+      "salary": "549449"
+    },
+    {
+      "id": 7,
+      "firstName": "ahmed",
+      "lastName": "zen",
+      "email": "ahmed@info.com",
+      "mobile": "0155448488",
+      "salary": "5000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
